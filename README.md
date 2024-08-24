@@ -32,4 +32,4 @@ Make sure you have the following installed:
 
 1. **To run the tests, simply use pytest:**
    ```bash
-      pytest
+      pytest --html=report.html      
